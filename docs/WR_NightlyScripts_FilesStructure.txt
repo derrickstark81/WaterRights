@@ -1,0 +1,16 @@
+WR Nightly Scripts file structure
+
+WR/
+	.vscode/
+	config/
+	logs/
+			wr_updates.log					# Auto-generated log files
+	metadata/
+	modules/
+	documentation/
+			README.md					# Script overview
+			Updating the Water Rights Maps.docx		# SOP for monthly updates to Water Rights Maps
+			WaterRights_MonthlyUpdatesSDELayers.docx	# SOP for monthly updates to Water Rights SDE layers
+			WR_NightlyScripts_FilesStructure.txt		# Text document describing file structure
+	WR_Updates.py							# Main script (entry point)
+		
